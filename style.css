@@ -1,0 +1,22 @@
+.product-vote__inner {
+    display: block;
+    text-align: center;
+    color: #1b919f;
+}
+
+.product-vote__star {
+    margin-right: 3px;
+    cursor: pointer;
+}
+
+.product-vote__star:last-child {
+    margin-right: 0;
+}
+
+.product-vote__star_active {
+    color: #83e1ed;
+}
+
+.product-vote__star_active::before {
+    content: "\f005";
+}
