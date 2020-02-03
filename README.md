@@ -1,6 +1,6 @@
 <h1>Чек-лист</h1>
 
-1. Первое задание <a href="https://github.com/dmitrykaplun/ratio/blob/master/%D0%9F%D0%B5%D1%80%D0%B2%D0%BE%D0%B5%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5.docx">выполнено</a>
+1. Первое задание - <a href="https://github.com/dmitrykaplun/ratio/blob/master/%D0%9F%D0%B5%D1%80%D0%B2%D0%BE%D0%B5%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5.docx">выполнено</a>
 2. Второе задание выполнено - <a href="https://github.com/dmitrykaplun/ratio/commit/a3bc8881dbd36ae9c3170726099df60f64293899">выполнено</a>
 3. Третье задание выполнено - <a href="https://github.com/dmitrykaplun/ratio/commit/674e623189ca32cc0cccdbf4faff0b71e6070193">выполнено</a>
 
